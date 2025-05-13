@@ -1,4 +1,4 @@
-# Resume-Parsing-Assignment
+# Resume-Parsing-ML-Model
 
 Resume Parsing and Job Matching using Natural Language Processing
 
